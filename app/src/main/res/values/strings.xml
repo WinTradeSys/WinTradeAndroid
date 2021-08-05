@@ -135,4 +135,53 @@
     <string name="question_success">Ваш вопрос отправлен в службу поддержки, ответ будет отправлен на указанный Вами e-mail</string>
     <string name="question_too_long">Вопрос слишком длинный</string>
     <string name="question_too_short">Вы забыли написать вопрос</string>
+    <string name="fill_the_profile">Заполнить профиль</string>
+    <string name="filling_information_1"> \t\tВаши персональные данные будут обработаны с целью создания профиля трейдера в соответствии с нормативно-правовыми требованиями.</string>
+    <string name="filling_information_2">Хранение данных будет осуществляться с соблюдением правил конфиденциальности. </string>
+    <string name="filling_information_3">После завершения верификации профиля будет предоставлена возможность: </string>
+    <string name="filling_information_4">в один клик загружать сделки из своего торгового терминала </string>
+    <string name="filling_information_5">писать комментарии к своим сделкам </string>
+    <string name="filling_information_6">размещать новости и/или оставлять комментарии к новстям </string>
+    <string name="filling_information_7">формировать сообщество последователей для монетизации</string>
+    <string name="filling_information_8"> \t\tЭта информация должна совпадать с данными вашего удостоверения личности или паспорта</string>
+    <string name="filling_information_name">\tИмя</string>
+    <string name="filling_information_surname">\tФамилия</string>
+    <string name="filling_information_lastname">\tОтчество</string>
+    <string name="filling_information_button">Продолжить</string>
+    <string name="filling_information_sex">Пол</string>
+    <string name="filling_information_male">Муж</string>
+    <string name="filling_information_female">Жен</string>
+    <string name="filling_information_birthday">День рождения</string>
+    <string name="filling_information_address">Адрес</string>
+    <string name="filling_information_street">\tУлица</string>
+    <string name="filling_information_city">\tГород</string>
+    <string name="filling_information_num">\t№</string>
+    <string name="filling_information_day">ДД</string>
+    <string name="filling_information_month">ММ</string>
+    <string name="filling_information_year">ГГГГ</string>
+    <string name="filling_your_profile">Ваш профиль</string>
+    <string name="filling_your_address">Ваш адрес</string>
+    <string name="filling_your_country">Страна проживания</string>
+    <string name="filling_your_living_country">Это страна моего проживания</string>
+    <string name="filling_passport_number">Номер паспорта</string>
+    <string name="filling_this_number_is_supposed">Этот номер должен относится к стране вашего гражданства</string>
+    <string name="filling_choose_tariff_plan">Выберите тарифный план для своих последователей</string>
+    <string name="filling_free">Бесплатный</string>
+    <string name="filling_paid">Платный</string>
+    <string name="filling_exceptions">За исключением аккаунтов(через запятую, начиная с @_)</string>
+    <string name="filling_individual">Индивидуальный</string>
+    <string name="filling_write_cost_per_month">Напишите стоимость в месяц, например 2000 руб</string>
+    <string name="filling_make_profile">Сделать профиль невидимым</string>
+    <string name="filling_users">Пользователи, которые не являются Вашими наблюдателями и подписчиками, не будут Вас видеть</string>
+    <string name="filling_load_and_download">Скачайте и установите скрипт для своего торгового терминала</string>
+    <string-array name="countries">
+    <item>Россия</item>
+    <item>США</item>
+    <item>Китай</item>
+    <item>Корея</item>
+    </string-array>
+    <string name="dot">dot</string>
+    <string name="top_with_shadow">top with shadow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
